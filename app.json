@@ -5,7 +5,7 @@
   "env": {
     "UUID": {
       "description": "The default UUID is below, please set your own",
-      "value": "c5a195b5-1082-45f4-b94d-7c9f9633dd8d"
+      "value": "50be5287-ece8-4f74-818b-6c2f6a73ee4d "
      }
   },
   "website": "https://github.com/Fookdies301/heroku-v2ray",
